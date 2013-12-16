@@ -1,3 +1,6 @@
+diCore (Wordpress Plugin)
+=========================
+
 Faq
 
 1.	What is diCore?
